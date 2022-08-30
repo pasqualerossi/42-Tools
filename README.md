@@ -14,7 +14,6 @@
 
 ## 🖱️ 42 Project Testers
 
-- 42 Push_Swap Tester - https://github.com/pasqualerossi/42_Push_Swap_Tester
 - 42 Cursus Tester - https://github.com/pasqualerossi/42-Cursus-Tester
 - Francinette Tester - https://github.com/xicodomingues/francinette
 
