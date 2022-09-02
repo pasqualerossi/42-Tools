@@ -12,6 +12,10 @@
 - Code Visualiser Tool - https://pythontutor.com/c.html#mode=edit
 - 42 Evaluations - https://github.com/pasqualerossi/42-Evaluations
 
+## 💻 42 Exams
+
+- Practice Exam Tool - https://github.com/JCluzet/42_EXAM
+
 ## 🖱️ 42 Project Testers
 
 - 42 Cursus Tester - https://github.com/pasqualerossi/42-Cursus-Tester
