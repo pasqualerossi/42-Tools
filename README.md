@@ -24,7 +24,7 @@
 ## 💻 42 On-Campus Computer Resources
 
 - 42 Project Templates - https://github.com/pasqualerossi/42-Projects-Template
-- 42 Computer Storage Cleaner - https://github.com/pasqualerossi/Cleaner_42
+- 42 Free Storage Cleaner - https://github.com/pasqualerossi/Free-Storage-Space
 
 <br>
 
