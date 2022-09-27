@@ -4,6 +4,10 @@
 
 </div>
 
+## :desktop_computer: 42 Web Development Discovery Pisicine
+
+- Web Development Discovery Piscine - https://github.com/pasqualerossi/42-Web-Development-Discovery-Piscine
+
 ## :house: 42 Off Campus Setup
 - Student Off-Campus Setup Guide - https://github.com/pasqualerossi/42-Off-Campus-Student-Set-Up
 
@@ -21,7 +25,7 @@
 - 42 Cursus Tester - https://github.com/pasqualerossi/42-Cursus-Tester
 - 42 Francinette Tester - https://github.com/xicodomingues/francinette
 
-## 💻 42 On-Campus Computer Resources
+## :books: 42 On-Campus Computer Resources
 
 - 42 File Project Template - https://github.com/pasqualerossi/42-Projects-Template
 - 42 Free Storage Cleaner - https://github.com/pasqualerossi/Free-Storage-Space
