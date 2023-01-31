@@ -42,6 +42,7 @@
 
 - 42 Folders Template - https://github.com/pasqualerossi/42-Projects-Template
 - 42 Computer Space Cleaner - https://github.com/pasqualerossi/Free-Storage-Space
+- 42 Computer Light to Dark Mode - https://github.com/pasqualerossi/DarkMode
 
 <br>
 
