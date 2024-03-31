@@ -10,10 +10,6 @@
 
 <br>
 
-## :desktop_computer: 42 Web Development Discovery Pisicine
-
-- Web Development Discovery Piscine - https://github.com/pasqualerossi/42-Discovery-Piscine
-
 ## :house: 42 Off Campus Setup
 - 42 Student Guide To Remote Off-Campus Setup - https://github.com/pasqualerossi/42-Off-Campus-Student-Set-Up
 
